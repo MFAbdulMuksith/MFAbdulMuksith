@@ -7,7 +7,13 @@
 
 *PROFILE SUMMARY*
 
-Experienced IT support specialist dedicated to leveraging technical expertise and interpersonal skills for outstanding customer service and team success. Proven track record in resolving complex issues, managing computer networks, and ensuring data security. Proficient in operating systems, troubleshooting, remote support, and system performance assessment. Committed to continuous learning for exceptional client outcomes.
+As an IT support specialist with experience in technical support roles, I am dedicated to utilizing my
+technical skills and interpersonal abilities to provide excellent customer service and contribute to
+team success. I have a proven track record of resolving complex customer issues and managing
+computer networks, hardware, software, and IT infrastructure. My expertise includes data security,
+operating systems, troubleshooting technical issues, remote support, and system performance
+assessment. This enables me to ensure functionality and deliver superior user experiences.
+Additionally, I am committed to ongoing learning to achieve exceptional client outcomes.
 
 <!--
 **MFAbdulMuksith/MFAbdulMuksith** is a ✨ _special_ ✨ 
