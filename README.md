@@ -1,12 +1,16 @@
-### Hi there 👋
+**Hi there! 👋**
 
-*ABDUL MUKSITH | Mawanella, Sri Lanka*
-- 📞 +94 766 956 345
-- 📧 abdulmuksith1996@gmail.com
+I hope you're doing well.
+
+---
+
+**ABDUL MUKSITH | Mawanella, Sri Lanka**  
+- 📞 +94 766 956 345  
+- 📧 abdulmuksith1996@gmail.com  
 - 🌐 [Facebook](https://www.facebook.com/abdul.muksith.79) | [Instagram](https://www.instagram.com/abdul_pluz/) | [LinkedIn](www.linkedin.com/in/pluz-view-458601197) | [GitHub](https://github.com/MFAbdulMuksith/MFAbdulMuksith)
 
-*PROFILE SUMMARY*
 
+**PROFILE SUMMARY**  
 As an IT support specialist with experience in technical support roles, I am dedicated to utilizing my
 technical skills and interpersonal abilities to provide excellent customer service and contribute to
 team success. I have a proven track record of resolving complex customer issues and managing
@@ -15,10 +19,9 @@ operating systems, troubleshooting technical issues, remote support, and system 
 assessment. This enables me to ensure functionality and deliver superior user experiences.
 Additionally, I am committed to ongoing learning to achieve exceptional client outcomes.
 
-<!--
-**MFAbdulMuksith/MFAbdulMuksith** is a ✨ _special_ ✨ 
 
 ---
+
 **SKILLS & EXPERTISE**  
 - IT Support Technician
 - Network Devices Setup (Routers, Switches)
@@ -42,6 +45,8 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Ability to write and execute simple Python scripts
 - Commitment to Continuous Learning
 
+---
+
 **PROFESSIONAL EXPERIENCE**  
 *JY Optoelectronic Devices Co., LTD, Tainan, Taiwan ROC*  
 *September 2020 - February 2023*  
@@ -64,6 +69,8 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Conducted tests post-service interruptions to ensure system functionality.
 - Collaborated with cross-functional teams to provide effective IT solutions.
 
+---
+
 **POSITIONS HELD**  
 - Board of Prefects Member
 - Senior Class Leader
@@ -72,6 +79,8 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Project Leader: "Horror Movie - 'The Friday 16'"
 - School and University ICT & Media Member
 - Coordinator: Well Digging and Water Supply Project at DMKV
+
+---
 
 **ACADEMIC QUALIFICATIONS**  
 *Bachelor of Science (Honors) in Department of Digital Applications 2017 - 2022*  
@@ -88,9 +97,13 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 *Institute of Personnel Management Sri Lanka*  
 *Career Guidance and Development 2017*
 
+---
+
 **CERTIFICATIONS**  
 *University of Kang Ning, Taiwan, Tainan ROC*  
 - CEFR English Proficiency Test 2018 Oct
+
+---
 
 **ACHIEVEMENTS AND AWARDS**  
 - Distinction Pass in General Information Technology (GIT) Examination
@@ -101,6 +114,8 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Best Attendance Student at Annual Event, 2012
 - Ranked as Top Performing Student at 2012 Annual Event
 
+---
+
 **PROJECTS AND RESEARCHES**  
 - *Globalization on Innovation*
 - *Employee Management System Review*
@@ -108,6 +123,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - *Automation and Driving*
 - *How Artificial Intelligence Will Change Everything for Patients and Doctors*
 
+---
 
 **REFERENCES**  
 *Mr. Chien-Chih Chen*  
@@ -122,3 +138,4 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Professor & Instructor, Dept. of Applied Foreign Languages, University of Kang Ning
 - Contact No: +886-911-990160
 - Email: cccc@ukn.edu.tw
+
