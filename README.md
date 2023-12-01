@@ -10,6 +10,8 @@ I hope you're doing well.
 - 🌐 [Facebook](https://www.facebook.com/abdul.muksith.79) | [Instagram](https://www.instagram.com/abdul_pluz/) | [LinkedIn](www.linkedin.com/in/pluz-view-458601197) | [GitHub](https://github.com/MFAbdulMuksith/MFAbdulMuksith)
 
 
+---
+
 **PROFILE SUMMARY**  
 As an IT support specialist with experience in technical support roles, I am dedicated to utilizing my
 technical skills and interpersonal abilities to provide excellent customer service and contribute to
@@ -138,4 +140,5 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 - Professor & Instructor, Dept. of Applied Foreign Languages, University of Kang Ning
 - Contact No: +886-911-990160
 - Email: cccc@ukn.edu.tw
-
+  
+---
