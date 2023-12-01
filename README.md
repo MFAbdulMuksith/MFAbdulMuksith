@@ -5,6 +5,7 @@ I hope you're doing well.
 ---
 
 **ABDUL MUKSITH | Mawanella, Sri Lanka**  
+
 - 📞 +94 766 956 345  
 - 📧 abdulmuksith1996@gmail.com  
 - 🌐 [Facebook](https://www.facebook.com/abdul.muksith.79) | [Instagram](https://www.instagram.com/abdul_pluz/) | [LinkedIn](www.linkedin.com/in/pluz-view-458601197) | [GitHub](https://github.com/MFAbdulMuksith/MFAbdulMuksith)
@@ -13,6 +14,7 @@ I hope you're doing well.
 ---
 
 **PROFILE SUMMARY**  
+
 As an IT support specialist with experience in technical support roles, I am dedicated to utilizing my
 technical skills and interpersonal abilities to provide excellent customer service and contribute to
 team success. I have a proven track record of resolving complex customer issues and managing
@@ -25,6 +27,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **SKILLS & EXPERTISE**  
+
 - IT Support Technician
 - Network Devices Setup (Routers, Switches)
 - LAN and WAN Setup Assistance
@@ -50,6 +53,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **PROFESSIONAL EXPERIENCE**  
+
 *JY Optoelectronic Devices Co., LTD, Tainan, Taiwan ROC*  
 *September 2020 - February 2023*  
 - Managed IT infrastructure for smooth operations.
@@ -74,6 +78,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **POSITIONS HELD**  
+
 - Board of Prefects Member
 - Senior Class Leader
 - Student Parliament Prime Minister
@@ -85,6 +90,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **ACADEMIC QUALIFICATIONS**  
+
 *Bachelor of Science (Honors) in Department of Digital Applications 2017 - 2022*  
 - Coursework includes Network security, 2D Animation, Database management, Electronic commerce, and more.
 
@@ -102,12 +108,14 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **CERTIFICATIONS**  
+
 *University of Kang Ning, Taiwan, Tainan ROC*  
 - CEFR English Proficiency Test 2018 Oct
 
 ---
 
 **ACHIEVEMENTS AND AWARDS**  
+
 - Distinction Pass in General Information Technology (GIT) Examination
 - Runner-Up in Football and Cricket, Open Inter-house Sports Meet
 - Runner-Up in Shot Put, Under-17 Inter-house Sports Meet
@@ -119,6 +127,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **PROJECTS AND RESEARCHES**  
+
 - *Globalization on Innovation*
 - *Employee Management System Review*
 - *Practices of Network Security*
@@ -128,6 +137,7 @@ Additionally, I am committed to ongoing learning to achieve exceptional client o
 ---
 
 **REFERENCES**  
+
 *Mr. Chien-Chih Chen*  
 - MEng in Computer Science, National Cheng Kung University, Tainan, Taiwan ROC
 - Lead Auditor ISO 27001, BS 10012, ISMS, PIMS
